@@ -1,9 +1,9 @@
-flask
-numpy
-pandas
-tensorflow
-scikit-learn==1.5.2
-h5py
-gunicorn
-matplotlib
-joblib
+Flask==2.2.5
+gunicorn==20.1.0
+tensorflow==2.11.0         # Compatible with Python 3.7–3.10
+scikit-learn==1.2.2         # Compatible with Python 3.7–3.10
+pandas==1.5.3
+numpy==1.21.6
+matplotlib==3.5.3
+joblib==1.2.0
+h5py==3.7.0
